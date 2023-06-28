@@ -1,3 +1,6 @@
-body {background-color: aqua;}
-header {background-color: blueviolet;}
-.imagem {width:20%;}
+body {background-color: rgb(255, 0, 234);}
+header {background-color: rgb(255, 230, 0);
+display: flex;
+justify-content: space-around;}
+
+.imagem {width:15%;}
